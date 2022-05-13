@@ -2,7 +2,7 @@
 👀 I’m interested in Java/HTML/CSS/Angular/MicroServices/MongoDB/SQL/...<br /><br />
 🌱 I’m currently learning on marketing findapp<br /><br />
 💞️ I’m looking to collaborate as a lead full-stack-developer/architect, preferably in insurance companies<br /><br />
-📫 You may reach me by plane/tube/taxi in my favorite bar
+📫 You may reach me by plane/tube/taxi in my favorite bars
 
 <!---
 maniafschar/maniafschar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
